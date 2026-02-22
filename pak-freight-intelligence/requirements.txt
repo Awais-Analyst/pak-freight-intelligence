@@ -32,7 +32,7 @@ folium==0.18.0
 
 # AI & Voice
  groq==0.13.0
-openai-whisper==20231117
+# openai-whisper==20231117   # Temporarily removed for Render deployment
 
 # Utilities
 python-dotenv==1.0.1
